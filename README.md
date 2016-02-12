@@ -472,3 +472,4 @@ Abrimos un navegador y ya podemos acceder:
 
 Por tanto cualquier persona con Docker instalado podría brindar el servicio que brinda mi aplicación sin preocuparse de preparar un entorno para ello.
 
+Eso es mentira, ![ola](https://i.ytimg.com/vi/VZ3LiI6eKNs/hqdefault.jpg).
